@@ -1,0 +1,39 @@
+Student_Management
+├── .idea
+├── Procfile
+├── readme.txt
+├── requirements.txt
+├── run.py
+├── Student_Management
+│   ├── Conversation.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── templates
+│   │   ├── add_student.html
+│   │   ├── chat_bot.html
+│   │   ├── delete.html
+│   │   ├── display_info.html
+│   │   ├── display_test.html
+│   │   ├── email_index.html
+│   │   ├── email_verify.html
+│   │   ├── enter_otp.html
+│   │   ├── mobile_login.html
+│   │   ├── student_login.html
+│   │   ├── update.html
+│   │   ├── update_rest.html
+│   │   └── Welcome.html
+│   ├── __init__.py
+│   └── __pycache__
+│       ├── Conversation.cpython-37.pyc
+│       ├── models.cpython-37.pyc
+│       ├── routes.cpython-37.pyc
+│       └── __init__.cpython-37.pyc
+├── venv
+│   ├── cx_Oracle-doc  
+│   ├── Include
+│   ├── Lib
+│   ├── pyvenv.cfg
+│   └── Scripts   
+└── __pycache__
+    └── models.cpython-37.pyc
+
