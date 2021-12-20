@@ -17,6 +17,6 @@
 8. We can SEARCH a particular student in our database as well.
 9. And In the main login page itself there is a small **CHATBOT**. Which is there for student help.  
 
-10. Auth_token for mobilwe otp will get expired everytime when it is exposed on other site. Twilio keep it private. 
-    When I push my code to git it get exposed and hence new Token generate on my account. So previous will not work.(**IMP**)
+10. Auth_token for mobile otp will get expired everytime when it is exposed on other site. Twilio keep it private. 
+    When I push my code to git it get exposed and hence new Token generate on my Twilio account. So previous will not work.(**IMP**)
     
