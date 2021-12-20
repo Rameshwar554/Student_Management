@@ -156,7 +156,7 @@ def generate_otp():
 
 def get_otp_api(number):
     account_sid = 'AC1db974f60f7af09f632246b976cdda6e'
-    auth_token = 'f6211e284351ebb63a01f56579725963'
+    auth_token = '44ba9e05f4259523c6582a56903bf416'
     client = Client(account_sid, auth_token)
     otp = generate_otp()
     session['response'] = str(otp)
